@@ -1,5 +1,5 @@
 ---
-title: Docker Installation
+title: Docker
 date: 2023-02-06 00:00:00 +0300
 categories: [homelab, docker]
 tags: [homelab,docker,installation]
